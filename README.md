@@ -3,7 +3,7 @@ Simple BitBar plugin using the Home Assistant API to put your desired sensor val
 
 ![Screenshot](https://github.com/petrepa/BitBar-HASS-fetch/blob/master/screenshot.png)
 
-You can select as many sensor values as you want, and can configure if you want the friendly name as prefix or not.
+You can include as many sensor values as you want, and you can configure if you want the friendly name as prefix or not.
 
 ## Installation
 Install [BitBar](https://getbitbar.com/)
