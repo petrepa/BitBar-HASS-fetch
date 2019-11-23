@@ -1,7 +1,7 @@
 # BitBar-HASS-fetch
 Simple BitBar plugin using the Home Assistant API to put your desired sensor values from your home in the Mac status bar.
 
-![Screenshot]()
+![Screenshot](https://github.com/petrepa/BitBar-HASS-fetch/blob/master/screenshot.png)
 
 You can select as many sensor values as you want, and can configure if you want the friendly name as prefix or not.
 
